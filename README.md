@@ -1,5 +1,5 @@
 # python-tic-tac-toe
-python 2 player tic-tac-toe game
+python 2 player tic-tac-toe game (gui)
 
 it's simple 2 player tic-tac-toe wrote with pygame
 
